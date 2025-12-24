@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+
+archive/
+*.zip
+
+# Power BI (fichiers temporaires)
+*.pbix.tmp
+
+jobs_final_bi.csv
+jobs_cleaned_v1.csv
