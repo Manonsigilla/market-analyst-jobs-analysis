@@ -18,6 +18,8 @@ L'objectif était de répondre de manière chiffrée aux questions que se posent
 
 ## 🔍 Résultats Clés (Insights)
 
+![Aperçu du Dashboard Power BI](dashboard_preview.png)
+
 * **Le Duo Incontournable :** SQL (**51%**) et Excel (**53%**) restent les compétences les plus demandées, loin devant les langages de programmation.
 * **Python vs R :** Python (**31%**) domine largement R (**20%**) sur le marché des Data Analysts.
 * **Visualisation :** Tableau (**27%**) conserve une avance sur Power BI (**19%**) dans ce dataset spécifique.
